@@ -1,3 +1,5 @@
+#test
+127.0.0.1 ichnaea.us-west-2.prodaa.netflix.com
 #more youtube
 127.0.0.1 r1---sn-25ge7nls.googlevideo.com
 127.0.0.1 r1---sn-25ge7nlz.googlevideo.com
